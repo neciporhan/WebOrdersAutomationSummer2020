@@ -1,3 +1,5 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+.idea
+target
+*.iml
+
+#things that we don't want to place in githubgit
